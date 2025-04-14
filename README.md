@@ -28,21 +28,3 @@
 🐱 Mis estadísticas en GitHub:
 
 
-📕 Mis últimos posts en el blog:
-<!-- BLOG-POST-LIST:START -->
-Containeriza tu aplicación web y despliega con Kubernetes
-
-Jugando con NLP usando TextBlob
-
-Recursividad de cola en Python 🐍
-
-Comando scp en Linux 💻
-
-Diferentes formas de autenticar tus APIs
-
-<!-- BLOG-POST-LIST:END -->
-😜 Un chiste para ti:
-<img src="https://readme-jokes.vercel.app/api" alt="Joke" />
-Créditos: Apoorv Tyagi
-Última edición: 26/11/2020
-
