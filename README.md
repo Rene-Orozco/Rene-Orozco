@@ -1,67 +1,48 @@
-<p align="center"> <a href="https://twitter.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="20" width="20" /></a>&nbsp; <a href="https://linkedin.com/in/apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="20" width="20" /></a>&nbsp; <a href="https://hashnode.com/@apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="apoorvtyagi" height="20" width="20" /></a> <a href="https://www.buymeacoffee.com/apoorvtyagi"><img align="center" alt="Buy me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a> </p>
+<p align="center"> <a href="https://twitter.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="20" width="20" /></a>&nbsp; <a href="https://linkedin.com/in/apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="20" width="20" /></a>&nbsp; <a href="https://hashnode.com/@apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="Hashnode" height="20" width="20" /></a> <a href="https://www.buymeacoffee.com/apoorvtyagi"><img align="center" alt="Buy me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a> </p>
 
 
 🤵 Sobre mí:
-🏦 Actualmente trabajo para una startup del sector salud, donde desarrollo aplicaciones financieras usando Spring Boot y MySQL
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+🎓 Actualmente soy estudiante de desarrollo Full Stack, enfocado en crear aplicaciones web modernas. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-🤔 Uso diariamente .java, .py, .sql
+🤔 Uso diariamente .js, .ts, Next.js, React, Angular, Node.js, Express, y TypeORM.
 
-🌱 Actualmente estoy aprendiendo Docker y Kubernetes
+🌱 Actualmente aprendiendo backend con JavaScript, utilizando Node.js, Express, TypeORM, y trabajando con bases de datos como PostgreSQL, MongoDB y MongoDB Atlas.
 
-💬 Hablemos sobre cricket, Python (ninguno de estos son insectos 😄) y Silicon Valley
+💬 Hablemos sobre desarrollo web, frameworks modernos y tecnología en general.
 
-😄 Pronombres: Él
+⚡ Dato curioso: Estoy aprendiendo inglés, me gusta el clima frío y soy autodidacta por naturaleza.
 
-📝 Escribo artículos regularmente en Hashnode (anteriormente en Blogger)
+<p align="center"> 
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" style="background-color:white;"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB Atlas" width="40" height="40"/>
+</p>
 
-👯 Podemos conectar en Chess.com♟ para jugar unas partidas
-
-⚡ Dato curioso: Je connais un peu le français
-
-<p align="center"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="60"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="60" height="60"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="35" height="35"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="GIT" width="45" height="45"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="IPYNB" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" alt="MAVEN" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="HEROKU" width="35" height="35"/> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </p>
-🐱 Mis estadísticas de GitHub:
+🐱 Mis estadísticas en GitHub:
 
 
-<!--START_SECTION:waka-->
-Soy un búho nocturno 🦉
-
-text
-Copiar
-Editar
-🌞 Mañana     41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.65% 
-🌆 Tarde      83 commits     ██████░░░░░░░░░░░░░░░░░░░   25.62% 
-🌃 Noche      172 commits    █████████████░░░░░░░░░░░░   53.09% 
-🌙 Madrugada  28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.64%
-📅 Soy más productivo los domingos
-
-text
-Copiar
-Editar
-Lunes        55 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.71% 
-Martes       23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.82% 
-Miércoles    25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.5% 
-Jueves       14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
-Viernes      16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.44% 
-Sábado       70 commits     ██████░░░░░░░░░░░░░░░░░░░   23.81% 
-Domingo      91 commits     ███████░░░░░░░░░░░░░░░░░░   30.95%
-<!--END_SECTION:waka-->
-⏳ Progreso del año { ███████████████████████████▁▁▁ } 90.17 % al ⏰ 26-11-2020.
-
-📕 Mis últimas publicaciones del blog:
+📕 Mis últimos posts en el blog:
 <!-- BLOG-POST-LIST:START -->
-Conteneriza tu aplicación web y despliega en Kubernetes
+Containeriza tu aplicación web y despliega con Kubernetes
 
-Probando tareas comunes de PLN usando TextBlob
+Jugando con NLP usando TextBlob
 
-Recursión de cola en Python 🐍
+Recursividad de cola en Python 🐍
 
 Comando scp en Linux 💻
 
-Distintas formas de autenticar tus APIs
+Diferentes formas de autenticar tus APIs
 
 <!-- BLOG-POST-LIST:END -->
 😜 Un chiste para ti:
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api" alt="Joke" />
 Créditos: Apoorv Tyagi
 Última edición: 26/11/2020
+
